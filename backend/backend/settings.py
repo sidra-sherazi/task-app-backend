@@ -30,7 +30,8 @@ ALLOWED_HOSTS = [
     "joyful-imagination-production-9033.up.railway.app",
     ".railway.app",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "[*]"
 ]
 
 
