@@ -27,6 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     ".onrender.com",
+    ".railway.app",
+    "127.0.0.1",
+    "localhost"
 ]
 
 
